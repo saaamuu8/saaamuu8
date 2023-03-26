@@ -5,7 +5,7 @@
 ```js
 const saaamuu8 = {
   pronouns: "he" || "him",
-  code: [HTML5, CSS3, JavaScript, TypeScript, Jest],
+  code: [HTML, CSS, JavaScript, TypeScript, Jest],
   tools: [React, Redux, Styled-Components, Tailwind],
 }
 ```
