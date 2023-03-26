@@ -1,4 +1,6 @@
-## ¡Hola! 👋 Soy Samuel 💻
+### ¡Hola! 👋 Soy Samuel 💻
+
+## About me in code
 
 ```js
 const saaamuu8 = {
@@ -8,7 +10,7 @@ const saaamuu8 = {
 }
 ```
 
-### You can find me 🌍:
+## You can find me 🌍:
 
 - [Linkedin] (https://www.linkedin.com/in/samuel-vitales-ponce/)
 - [Github] (https://github.com/saaamuu8)
