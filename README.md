@@ -12,6 +12,6 @@ const saaamuu8 = {
 
 ## You can find me 🌍:
 
-- [Linkedin] (https://www.linkedin.com/in/samuel-vitales-ponce/)
-- [Github] (https://github.com/saaamuu8)
-- [Instagram] (https://www.instagram.com/saaamuu8/)
+- [Linkedin](https://www.linkedin.com/in/samuel-vitales-ponce/)
+- [Github](https://github.com/saaamuu8)
+- [Instagram](https://www.instagram.com/saaamuu8/)
