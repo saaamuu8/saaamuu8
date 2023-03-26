@@ -1,16 +1,15 @@
-### ¡Hola! 👋 Soy Samuel 💻
+## ¡Hola! 👋 Soy Samuel 💻
 
-<!--
-**saaamuu8/saaamuu8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```js
+const saaamuu8 = {
+  pronouns: "he" || "him",
+  code: [HTML5, CSS3, JavaScript, TypeScript, Jest],
+  tools: [React, Redux, Styled-Components, Tailwind],
+}
+```
 
-Here are some ideas to get you started:
+### You can find me 🌍:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Linkedin] (https://www.linkedin.com/in/samuel-vitales-ponce/)
+- [Github] (https://github.com/saaamuu8)
+- [Instagram] (https://www.instagram.com/saaamuu8/)
