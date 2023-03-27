@@ -1,7 +1,7 @@
 ## ¡Hi! 👋 I'm Samuel 💻
 </br>
 
-![SAMUEL VITALES PONCE_016](https://user-images.githubusercontent.com/127085819/227794111-d61ec4e8-6f5a-41d4-b6db-8f3e89edda36.jpg)
+![me](https://user-images.githubusercontent.com/127085819/227928746-32400aaa-a03b-4a91-a384-580cd6880dbe.jpg)
 
 ## About me in code
 
